@@ -1,0 +1,4 @@
+/hazyvpn
+*.log
+*.log.1
+.claude/

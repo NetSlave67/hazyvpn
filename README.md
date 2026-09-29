@@ -1,0 +1,2 @@
+# hazyvpn
+wireguard-tui-tool
